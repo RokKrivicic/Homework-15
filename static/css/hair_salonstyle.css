@@ -1,0 +1,32 @@
+.personal_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.personal_container2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.square {
+    height: 150px;
+    width: 300px;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.square2 {
+    height: 100px;
+    width: 300px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.square3 {
+    height: 250px;
+    background-color: grey;
+}
+.square4 {
+    height: 50px;
+    background-color: white;
+}
